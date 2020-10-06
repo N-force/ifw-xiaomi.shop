@@ -1,9 +1,0 @@
-<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
-  <prescription type="activity" class="com.xiaomi.shop.activity.MainTabActivity" sender="other" />
-    <intent-filter>
-      <action name="android.intent.action.VIEW" />
-      <scheme name="mishop" />
-      <cat name="android.intent.category.BROWSABLE" />
-    </intent-filter>
-  </prescription>
-</prescriptions>
